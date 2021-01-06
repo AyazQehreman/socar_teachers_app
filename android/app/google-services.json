@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "169343958094",
+    "project_id": "socar-teachers-app",
+    "storage_bucket": "socar-teachers-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169343958094:android:2d9a237f19050e598b171f",
+        "android_client_info": {
+          "package_name": "com.example.testing_everything"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169343958094-2v00q15p47qiv5hirv4bk7j2hb9a5o9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testing_everything",
+            "certificate_hash": "cea2776a791216b3b5f1109fc045e096be8b4236"
+          }
+        },
+        {
+          "client_id": "169343958094-l1obq85rggd7hrhvcd2dsn67u6hab5e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4dIDaaH87v_wIfMDIyWRiZy2MD60FS80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169343958094-l1obq85rggd7hrhvcd2dsn67u6hab5e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
